@@ -1,4 +1,4 @@
-# GSegar
+# GFoodies
 Developer GString corp
 Frontend Andika
 Fullstack Inggo
